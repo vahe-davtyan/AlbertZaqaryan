@@ -3,7 +3,7 @@ I work with python for 6+ years. I can do web and desktop apps, Image<br>process
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/albert-zaqaryan-167b89243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-yeghiazaryan-356169271" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vahe-davtyan-031710285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-yeghiazaryan-356169271" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
